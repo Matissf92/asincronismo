@@ -9,7 +9,8 @@
     "promise": "node src/promise/index.js",
     "promise:challenge": "node src/promise/challenge.js",
     "async": "node src/async/index.js/",
-    "async:challenge": "node src/async/challenge.js"
+    "async:challenge": "node src/async/challenge.js",
+    "practica": "node practica/index.js"
   },
   "keywords": [
     "callbacks",
